@@ -7,25 +7,25 @@ This repository was inspired by another [awesome compilation](https://github.com
 
 
 ### True Positive Weekly #20 (March 9, 2021)
-[Artificial intelligence co-pilots US military aircraft](https://edition.cnn.com/2020/12/16/politics/air-force-flight-artificial-intelligence/index.html) for the first time
+* [Artificial intelligence co-pilots US military aircraft](https://edition.cnn.com/2020/12/16/politics/air-force-flight-artificial-intelligence/index.html) for the first time
 
-TAPAS, a multi-modal [model for question answering on tabular data](https://huggingface.co/google/tapas-base-finetuned-wtq)
+* TAPAS, a multi-modal [model for question answering on tabular data](https://huggingface.co/google/tapas-base-finetuned-wtq)
 
-[Facebook is developing a tool to summarize articles](https://www.buzzfeednews.com/article/ryanmac/facebook-news-article-summary-tools-brain-reader) so you don’t have to read them
+* [Facebook is developing a tool to summarize articles](https://www.buzzfeednews.com/article/ryanmac/facebook-news-article-summary-tools-brain-reader) so you don’t have to read them
 
-6 ways [AI can help save the planet](https://www.raconteur.net/sustainability/ai-save-planet/)
+* 6 ways [AI can help save the planet](https://www.raconteur.net/sustainability/ai-save-planet/)
 
-Deep reinforcement-learning architecture [combines pre-learned skills to create new sets of skills on the fly](https://techxplore.com/news/2020-12-deep-reinforcement-learning-architecture-combines-pre-learned.html)
+* Deep reinforcement-learning architecture [combines pre-learned skills to create new sets of skills on the fly](https://techxplore.com/news/2020-12-deep-reinforcement-learning-architecture-combines-pre-learned.html)
 
-Portrait Light: [enhancing portrait lighting with machine learning](https://ai.googleblog.com/2020/12/portrait-light-enhancing-portrait.html)
+* Portrait Light: [enhancing portrait lighting with machine learning](https://ai.googleblog.com/2020/12/portrait-light-enhancing-portrait.html)
 
-[Easier code reviews for Jupyter notebooks](https://www.drivendata.co/blog/nbautoexport-jupyter-code-review/) with nbautoexport
+* [Easier code reviews for Jupyter notebooks](https://www.drivendata.co/blog/nbautoexport-jupyter-code-review/) with nbautoexport
 
-traingenerator: a web app to generate template code for machine learning ([project](https://traingenerator.jrieke.com/), [code](https://github.com/jrieke/traingenerator))
+* traingenerator: a web app to generate template code for machine learning ([project](https://traingenerator.jrieke.com/), [code](https://github.com/jrieke/traingenerator))
 
-Researchers used ML to identify [whether certain Facebook users had schizophrenia or mood disorders more than a year before their first psychiatric hospitalization](https://www.nature.com/articles/s41537-020-00125-0)
+* Researchers used ML to identify [whether certain Facebook users had schizophrenia or mood disorders more than a year before their first psychiatric hospitalization](https://www.nature.com/articles/s41537-020-00125-0)
 
-[Tiny four-bit computers are now all you need](https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/) to train AI
+* [Tiny four-bit computers are now all you need](https://www.technologyreview.com/2020/12/11/1014102/ai-trains-on-4-bit-computers/) to train AI
 
     
 
