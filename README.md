@@ -1,5 +1,5 @@
 # awesome-andriy-burkov-emails
-This repository is an archive of emails that are sent by Andriy Burkov every week.
+This repository is an archive of emails that are sent by Andriy Burkov ([author of The Hundred Page Machine Learning](http://themlbook.com/) book) every week.
 	
 I joined the weekly newsletter late (in Feb 2021), so I would request if anyone has the previous emails, they can kindly help me update this repository with the Weekly from \#1 - \#18. 
 This repository was inspired by another [awesome compilation](https://github.com/sourabh-joshi/awesome-quincy-larson-emails). Please do check out this repository.
