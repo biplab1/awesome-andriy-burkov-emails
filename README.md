@@ -6,12 +6,7 @@ This repository was inspired by another [awesome compilation](https://github.com
 
 
 ### True Positive Weekly #19 (February 20, 2021)
-The most important artificial intelligence and machine learning links of the week 
-	
-Andriy Burkov
 
-Hey, in this issue: neural networks (maybe) evolved to make adam the best optimizer, most important statistical ideas of the past 50 years, enterprises are turning from TensorFlow to PyTorch, a general game-playing AI bot that excels at many games, do we really need green screens for high-quality real-time human matting, and more.
-  
 * Neural networks (maybe) [evolved to make adam the best optimizer](https://parameterfree.com/2020/12/06/neural-network-maybe-evolved-to-make-adam-the-best-optimizer/)
 
 * What are the most [important statistical ideas of the past 50 years](https://arxiv.org/abs/2012.00174)?
