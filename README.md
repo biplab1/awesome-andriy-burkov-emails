@@ -5,6 +5,52 @@ I joined the weekly newsletter late (in Feb 2021), so I would request if anyone 
 
 This repository was inspired by another [awesome compilation](https://github.com/sourabh-joshi/awesome-quincy-larson-emails). Please do check it out.
 
+    
+### True Positive Weekly #22 (March 28, 2021)    
+* Google trained [a trillion-parameter AI language model](https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/) ([paper](https://arxiv.org/abs/2101.03961))
+
+* [Validating data in Python](https://hector.dev/2020/12/29/validating-data-in-python-with-cerberus) with Cerberus
+
+* [Which machine learning classifiers are best](https://www.data-cowboys.com/blog/which-machine-learning-classifiers-are-best-for-small-datasets) for small datasets?
+
+* [Controllable neural text generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html)
+
+* The [illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+
+* [2020 state of enterprise machine learning](https://algorithmia.com/state-of-ml) report
+
+* When should you [not invest in AI](https://www.entrepreneur.com/article/359803)?
+
+* Where genuine intelligence [beats artificial intelligence](https://seekingalpha.com/article/4398004-where-genuine-intelligence-beats-artificial-intelligence)
+
+* Artificial intelligence making [more inroads into Las Vegas casinos](https://www.reviewjournal.com/business/conventions/ces/artificial-intelligence-making-more-inroads-into-las-vegas-casinos-2249860/)
+
+* ‘Augmented creativity’: [how AI can accelerate human invention](https://venturebeat.com/2021/01/07/why-we-need-augmented-creativity-to-reignite-growth-in-2021/)
+
+
+
+### True Positive Weekly #21 (March 13, 2021)
+* A neural network called [DALL·E creates images from text captions](https://openai.com/blog/dall-e/)
+
+* Deep learning to [translate between programming languages](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/)
+
+* 500 AI [projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+
+* AI could make weather forecasts more accurate. [Here’s how](https://www.weforum.org/agenda/2021/01/ai-could-mine-the-past-for-faster-better-weather-forecasts)
+
+* Dr Dolittle machines: [How AI is helping us talk to the animals](https://www.newscientist.com/article/mg24833133-500-dr-dolittle-machines-how-ai-is-helping-us-talk-to-the-animals/)
+
+* [How artificial intelligence will be used](https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/) in 2021
+
+* Data-efficient image Transformers: [a promising new technique for image classification](https://ai.facebook.com/blog/data-efficient-image-transformers-a-promising-new-technique-for-image-classification)
+
+* 2020 in review: [10 AI failures](https://syncedreview.com/2021/01/01/2020-in-review-10-ai-failures/)
+
+* [Artificial intelligence solves Schrödinger’s equation](https://scitechdaily.com/artificial-intelligence-solves-schrodingers-equation-a-fundamental-problem-in-quantum-chemistry/), a fundamental problem in quantum chemistry
+
+* AI models from Microsoft and Google already [surpass human performance on the SuperGLUE language benchmark](https://venturebeat.com/2021/01/06/ai-models-from-microsoft-and-google-already-surpass-human-performance-on-the-superglue-language-benchmark/)
+
+
 
 ### True Positive Weekly #20 (March 9, 2021)
 * [Artificial intelligence co-pilots US military aircraft](https://edition.cnn.com/2020/12/16/politics/air-force-flight-artificial-intelligence/index.html) for the first time
