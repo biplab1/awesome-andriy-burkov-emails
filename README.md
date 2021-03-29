@@ -2,9 +2,7 @@
 This repository is an archive of emails that are sent by Andriy Burkov every week.
 	
 I joined the weekly newsletter late (in Feb 2021), so I would request if anyone has the previous emails, they can kindly help me update this repository with the Weekly from \#1 - \#18. 
-This repository was inspired by another awesome compilation: </br> 
-https://github.com/sourabh-joshi/awesome-quincy-larson-emails </br>
-Please do check this repository out.
+This repository was inspired by another [awesome compilation](https://github.com/sourabh-joshi/awesome-quincy-larson-emails. Please do check this repository out.
 
 
 ### True Positive Weekly #19 (February 20, 2021)
