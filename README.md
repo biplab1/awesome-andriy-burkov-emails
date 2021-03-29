@@ -3,8 +3,6 @@ This repository is an archive of emails that are sent by Andriy Burkov (author o
 	
 I joined the weekly newsletter late (in Feb 2021), so I would request if anyone has the previous emails, they can kindly help me update this repository with the Weekly from \#1 - \#18. </br>
 
-This repository was inspired by another [awesome compilation](https://github.com/sourabh-joshi/awesome-quincy-larson-emails). Please do check it out.
-
     
 ### True Positive Weekly #22 (March 28, 2021)    
 * Google trained [a trillion-parameter AI language model](https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/) ([paper](https://arxiv.org/abs/2101.03961))
