@@ -3,6 +3,28 @@ This repository is an archive of emails that are sent by Andriy Burkov (author o
 	
 I joined the weekly newsletter late (in Feb 2021), so I would request if anyone has the previous emails, they can kindly help me update this repository with the Weekly from \#1 - \#18. </br>
 
+### True Positive Weekly #23 (April 5, 2021)
+* [Machine learning: the great stagnation](https://marksaroufim.substack.com/p/machine-learning-the-great-stagnation)
+
+* ToTTo: a controlled [table-to-text generation dataset](https://ai.googleblog.com/2021/01/totto-controlled-table-to-text.html)
+
+* Artificial intelligence researchers rank the [top AI labs worldwide](https://www.cnbc.com/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html)
+
+* The Hateful Memes Challenge: [detecting hate speech in multimodal memes](https://arxiv.org/abs/2005.04790)
+
+* How to talk when a machine is listening: [corporate disclosure in the age of AI](https://www.nber.org/papers/w27950)
+
+* Jumbled-up sentences show that [AIs still don’t really understand language](https://www.technologyreview.com/2021/01/12/1016031/jumbled-up-sentences-ai-doesnt-understand-language-nlp-bert-fix/)
+
+* The latest advances and insights for [neural network model compression with quantization](https://heartbeat.fritz.ai/neural-network-quantization-research-review-2020-6d72b06f09b1)
+
+* [Fit more and train faster](https://huggingface.co/blog/zero-deepspeed-fairscale) with ZeRO via DeepSpeed and FairScale
+
+* [Julia adoption keeps climbing](https://www.hpcwire.com/2021/01/13/julia-update-adoption-keeps-climbing-is-it-a-python-challenger/); is it a Python challenger?
+
+* We don't need data scientists, [we need data engineers](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/)
+
+
     
 ### True Positive Weekly #22 (March 28, 2021)    
 * Google trained [a trillion-parameter AI language model](https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/) ([paper](https://arxiv.org/abs/2101.03961))
