@@ -3,6 +3,24 @@ This repository is an archive of emails that are sent by Andriy Burkov (author o
 	
 I joined the weekly newsletter late (in Feb 2021), so I would request if anyone has the previous emails, they can kindly help me update this repository with the Weekly from \#1 - \#18. </br>
 
+### True Positive Weekly #24 (April 25, 2021)
+* [Opinion] [What’s wrong with MLOps](https://laszlo.substack.com/p/whats-wrong-with-mlops)?
+
+* [Project] Accelerate: [a simple way to train and use PyTorch models](https://github.com/huggingface/accelerate) with multi-GPU, TPU, mixed-precision
+
+* The [challenges of applied machine learning](https://bdtechtalks.com/2021/04/19/applied-machine-learning-challenges/)
+
+* Geoffrey Hinton has a hunch about [what’s next for AI](https://www.technologyreview.com/2021/04/16/1021871/geoffrey-hinton-glom-godfather-ai-neural-networks/)
+
+* [Explained] Facebook TransCoder, the AI that translates code from a programming language to another ([article](https://www.analyticssteps.com/blogs/what-is-facebooks-transcoder-ai), [video](https://www.youtube.com/watch?v=u6kM2lkrGQk))
+
+* [Project] mbrl-lib: a library for [model-based reinforcement learning](https://github.com/facebookresearch/mbrl-lib)
+
+* [OpenAI-powered Linux shell](https://riveducha.onfabrica.com/openai-powered-linux-shell) uses AI to do what you mean ([video](https://www.youtube.com/watch?v=j0UnS3jHhAA))
+
+* [Tutorial] [Face detection with dlib](https://www.pyimagesearch.com/2021/04/19/face-detection-with-dlib-hog-and-cnn/)
+
+
 ### True Positive Weekly #23 (April 5, 2021)
 * [Machine learning: the great stagnation](https://marksaroufim.substack.com/p/machine-learning-the-great-stagnation)
 
